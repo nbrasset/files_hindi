@@ -7692,7 +7692,7 @@ item []:
             text = "" 
     item [3]:
         class = "IntervalTier" 
-        name = "sound" 
+        name = "word" 
         xmin = 0 
         xmax = 351.79047619047617 
         intervals: size = 219 
