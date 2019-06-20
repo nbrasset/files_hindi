@@ -7927,7 +7927,7 @@ item []:
         intervals [96]:
             xmin = 130.57 
             xmax = 130.82 
-            text = "ADA " 
+            text = "ADA" 
         intervals [97]:
             xmin = 130.82 
             xmax = 137.98 
